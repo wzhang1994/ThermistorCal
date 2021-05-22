@@ -1,0 +1,13 @@
+Manufacturer:   Antares Datensysteme GmbH
+LoggerID:   1854631C
+
+Calibration Date/time:   2017/11/15 07:49
+
+Calibration Function:
+$T(^{\circ}C) = \left(\sum_{i=0}^3A_i\ln(X)^i\right)^{-1}-273.15$, with $X=$resistance [$\Omega$]
+
+Coefficients: 
+1.113481e-003
+1.994466e-004
+1.185509e-006
+5.362937e-008

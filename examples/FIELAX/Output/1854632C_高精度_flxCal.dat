@@ -1,0 +1,34 @@
+######################################################################
+#
+# LoggerIdentifier    : 1854632C
+# Manufacturer        : Antares Datensysteme GmbH
+# Comment             : 
+# PC Time             : 03 April 2018 , 19:14:08
+# Logger Time         : 03 April 2018 , 19:14:20
+# StartBatteryVoltage :      2979 mV
+# EndBatteryVoltage   :      2962 mV
+# TotalSampleCount    :    159430
+# ResistanceOffset    :     11904.08378
+# ResistanceScale     : 数ResistanceScale
+# DateOfCalibration   : 15 November 2017 , 07:52:00
+# CalibrationFile     : C:\Users\Wentao Zhang\Desktop\软件著作权申请\main\FIELAX\FIELAX_SHP_Calibration_Files\1854632C.cal
+# CalibrationFunction : $T(^{\circ}C) = \left(\sum_{i=0}^3A_i\ln(X)^i\right)^{-1}-273.15$, with $X=$resistance [$\Omega$]
+# CalibrationCoeff    : 1.094676e-03 2.047478e-04 6.981233e-07 6.821322e-08
+#
+######################################################################
+yyyy mm dd HH MM SS      Raw     Res[Ohm]   Temp[degC]
+2018 03 23 14 05 01    21254    115882.900       -1.792
+2018 03 23 14 05 02    21255    103875.800        0.225
+2018 03 23 14 05 03    21257    93345.800        2.219
+2018 03 23 14 05 04    21259    83990.700        4.213
+2018 03 23 14 05 05    21260    68217.400        8.210
+2018 03 23 14 05 06    21262    50356.700       14.217
+2018 03 23 14 05 07    21263    35830.200       21.210
+2018 03 23 14 05 08    21266    23582.800       30.200
+2018 03 23 14 05 09    21267    35830.200       21.210
+2018 03 23 14 05 10    21268    50358.400       14.217
+2018 03 23 14 05 11    21270    68219.500        8.210
+2018 03 23 14 05 12    21272    83990.700        4.213
+2018 03 23 14 05 13    21273    93345.800        2.219
+2018 03 23 14 05 13    21273    103875.800        0.225
+2018 03 23 14 05 13    21273    115882.900       -1.792
